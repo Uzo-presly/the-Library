@@ -1,0 +1,13 @@
+{
+  "books": [
+    {
+      "title": "The new Sun",
+      "author": "Calculus Levi",
+      "description": " The sun shall soon shine",
+      "bookImage": "https://images.unsplash.com/photo-1721188092458-02476f779c66?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw1NHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+}
+/* this json file is suppose to play the role of  store
+for the submissions we shall receive as we experiment
+on the form designed in the html */
